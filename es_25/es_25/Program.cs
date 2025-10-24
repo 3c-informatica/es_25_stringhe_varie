@@ -10,7 +10,7 @@ namespace es_25
     {
         static void Main(string[] args)
         {
-            string s = "NN MRI GIOVNN";
+            string s = "ANNA MARIA GIOVANNA";
             char A = 'A';
 
             cerca_lettera(s, A);
