@@ -5,3 +5,11 @@ C:\Users\e.andru.3864\source\repos\es25stringhe_varie\es_25\es_25\obj\Debug\es_2
 C:\Users\e.andru.3864\source\repos\es25stringhe_varie\es_25\es_25\obj\Debug\es_25.csproj.CoreCompileInputs.cache
 C:\Users\e.andru.3864\source\repos\es25stringhe_varie\es_25\es_25\obj\Debug\es_25.exe
 C:\Users\e.andru.3864\source\repos\es25stringhe_varie\es_25\es_25\obj\Debug\es_25.pdb
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\bin\Debug\es_25.exe.config
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\bin\Debug\es_25.exe
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\bin\Debug\es_25.pdb
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\obj\Debug\es_25.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\obj\Debug\es_25.exe.config
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\obj\Debug\es_25.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\obj\Debug\es_25.exe
+C:\Users\Emanuel\Desktop\terza\C#\esercizi\es_25_stringhe_varie\es_25\es_25\obj\Debug\es_25.pdb
