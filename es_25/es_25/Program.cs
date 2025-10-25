@@ -57,8 +57,23 @@ namespace ES25stringheVarie
             //--------------------------------------------------------------
             s2 = s.Replace("N", "_");
             Console.WriteLine(s2);
+
+            Console.ReadKey();
+            Console.Clear();
+            trovaPosiioni_con_indexOf(s, c);
             Console.ReadKey();
 
+        }
+
+        private static void trovaPosiioni_con_indexOf(string s, char c)
+        {
+            int pos = s.IndexOf(c); 
+
+            while (pos != -1)
+            {
+                Console.WriteLine($"Il carattere si trova nella posizione {pos}");
+                pos = s.IndexOf(c, pos + 1);
+            }
         }
 
         private static int cercaPrimaPosizione(string s, char c)
